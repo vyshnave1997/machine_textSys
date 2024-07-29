@@ -1,4 +1,4 @@
-# SysMix Website
+# Machine Test SysMix Website
 
 Welcome to the SysMix website repository. This project contains the source code for the SysMix website, which showcases the features, industries, and contact information for SysMix.
 
