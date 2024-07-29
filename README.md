@@ -28,6 +28,8 @@ To set up the project locally, follow these steps:
    ```bash
    git clone https://github.com/vyshnave1997/machine_textSys.git
 
+   Feature.html not depolyed.
+
 
 
 
